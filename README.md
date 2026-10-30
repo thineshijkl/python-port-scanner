@@ -36,7 +36,7 @@ Scans run in parallel using a thread pool, which turns a scan that would take ho
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-port-scanner.git
+git clone https://github.com/thineshijkl/python-port-scanner.git
 cd python-port-scanner
 ```
 
